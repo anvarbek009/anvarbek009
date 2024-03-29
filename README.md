@@ -1,6 +1,6 @@
 <h1>Hello I'm Anvarbek 👋 </h1>
 <p><b>About me:</b> I'm study at School, Cambridge LC and Na'jot Ta'lim. Before I studied Mars IT School</p>
-<h2>Skills: HTML, CSS, Javascript, Python, Telegram bot, SQL, Figma, Scratch ...</h2>
+<h2>Skills: HTML, CSS, Javascript, Python, Telegram bot, Postgresql,Sqlite, Figma...</h2>
 <h3>If you have any questions, please message me on social media 👇</h3>
 <div>
 	<br>
